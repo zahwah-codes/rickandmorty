@@ -6,3 +6,33 @@ body {
   font-size: 16px;
   box-sizing: border-box;
 }
+
+@font-face {
+  font-family: 'Gascogne-Regular';
+  src:  url('/src/fonts/Gascogne-Regular.woff2') format('woff2'),
+        url('/src/fonts/Gascogne-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+  src:  url('/src/fonts/NeueHaasDisplay-Roman.woff2') format('woff2'),
+        url('/src/fonts/NeueHaasDisplay-Roman.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+  src:  url('/src/fonts/NeueHaasDisplay-Thin.woff2') format('woff2'),
+        url('/src/fonts/NeueHaasDisplay-Thin.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+  src:  url('/src/fonts/NeueHaasDisplay-Medium.woff2') format('woff2'),
+        url('/src/fonts/NeueHaasDisplay-Medium.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+  src:  url('/src/fonts/NeueHaasDisplay-Thin.woff2') format('woff2'),
+        url('/src/fonts/NeueHaasDisplay-Thin.woff') format('woff');
+}
