@@ -1,0 +1,40 @@
+.container {
+margin-top: 4rem;
+}
+
+
+.btn {
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    padding: 9px 15px;
+    border: none;
+    font-family: 'Gascogne-Regular';
+    font-size: 1.2rem;
+}
+
+.input {
+    font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+    font-weight: 400;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 10px 15px;
+    width: 40%;
+}
+
+.input:focus {
+    outline: none;
+}
+
+h1 {
+    font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+@media (max-width: 576px) {
+    .input {
+      width: 80%;
+    }
+  }

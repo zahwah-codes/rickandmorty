@@ -1,0 +1,65 @@
+.title {
+    font-size: 1.5rem;
+    font-family: 'Gascogne-Regular';
+}
+
+.card {
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 0.7rem;
+}
+
+.content {
+    padding: 10px;
+}
+
+.img {
+    border-radius: 20px 20px 0 0;
+  }
+
+.badge {
+    font-family: 'Gascogne-Regular';
+    font-size: 1.4rem;
+    top: 20px;
+    right: 30px;
+    position: absolute;
+    border-radius: 15px;
+    padding: 2px 8px;
+    text-transform: capitalize;
+  }
+
+  .badgeText {
+    font-family: 'Gascogne-Regular';
+    font-size: 1.4rem;
+  }
+
+.location {
+    margin-top: 1.4rem;
+    font-size: 0.9rem;
+    font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+    font-weight: 400;
+  }
+
+.locationName {
+    font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+    font-weight: 400;
+    font-size: 1.3rem;
+  }
+
+  .gif{
+    width: 400px;
+    position: relative;
+  }
+
+  .infoCard {
+    font-family: 'Gascogne-Regular';
+    font-weight: 500;
+    text-transform: capitalize;
+    font-size: 1.3rem;
+
+  }
+
+  .infoTitle {
+    font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+    font-weight: 700;
+  }

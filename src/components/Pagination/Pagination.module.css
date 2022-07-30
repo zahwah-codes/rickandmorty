@@ -1,0 +1,32 @@
+.btn {
+    border-radius: 10px;
+    background-color: black;
+    padding: 2px 14px;
+    border: none;
+    font-family: 'Gascogne-Regular';
+    font-size: 1.2rem;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn a {
+    text-decoration: none;
+    color: white;
+}
+
+.pages {
+    color: black;
+    font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+    margin: auto 0;
+}
+
+ul {
+    list-style: none;
+    margin-right: 1rem;
+  }
+  
+  ul li{
+    padding: 0 1rem;
+    display: inline-block;
+  }
+

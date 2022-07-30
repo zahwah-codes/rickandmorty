@@ -1,0 +1,23 @@
+.episode, .location {
+    font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+    font-style: 400;
+    color: black;
+}
+
+.episodeName, .locationName {
+    font-family: 'Gascogne-Regular';
+}
+
+.airDate, .dimension {
+    font-family: 'Gascogne-Regular';
+}
+
+.pickEpisode, .pickLocation {
+    font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+    font-style: 300;
+}
+
+.locationType {
+    font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+    font-style: 300;
+}

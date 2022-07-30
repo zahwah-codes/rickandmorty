@@ -1,0 +1,22 @@
+.logoWiki {
+    font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+    font-weight: 400;
+    vertical-align: super;
+    font-size: 0.9rem;
+  }
+  
+  .logo { 
+    font-family: 'Gascogne-Regular';
+    font-size: 2rem;
+    margin-left: 1rem;
+  }
+  
+  .nav {
+    border-bottom: 1px solid grey;
+    margin-top: 0.4rem;
+  }
+  
+  .navbarLinks{
+    font-family: 'Gascogne-Regular';
+    font-size: 1.4rem;
+  }

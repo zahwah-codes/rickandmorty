@@ -1,0 +1,23 @@
+.header {
+    text-align: center;
+    font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+    font-weight: 500;
+    font-size: 1.3rem;
+    margin-bottom: 0.4rem;
+}
+
+.clearFilter {
+    text-align: center;
+    font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+.accordion {
+    font-family: 'Gascogne-Regular';
+
+}
+
